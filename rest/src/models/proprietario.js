@@ -41,6 +41,10 @@ function insert(proprietario) {
   return proprietario;
 }
 
+function clearData() {
+  const data = { proprietarios: [] };
+  fs.writeFileSync(paths.PROPRIETARIO, JSON.stringify(data));
+}
 
 
 module.exports = {
@@ -48,5 +52,6 @@ module.exports = {
   getById,
   insert,
   getNextId,
-  saveFile
+  saveFile,
+  clearData
 };

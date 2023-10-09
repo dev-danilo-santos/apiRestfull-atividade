@@ -6,7 +6,14 @@ module.exports = {
   getById,
   insert,
   update,
-  remove
+  remove,
+  clearData
+}
+
+function clearData() {
+  if (fs.existsSync(paths.IMOVEL)) {
+    fs.writeFileSync(paths.IMOVEL, JSON.stringify({ imoveis: [] }));
+  }
 }
 
 function loadFile() {
