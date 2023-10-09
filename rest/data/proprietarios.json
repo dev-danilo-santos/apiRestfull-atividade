@@ -1,1 +1,604 @@
-{"proprietarios":[]}
+{
+    "proprietarios": [
+        {
+            "id": "1f01c12b-5f5e-4d1a-ae9a-6698a751f4da",
+            "nome": "Lorine",
+            "sobrenome": "Lebsack",
+            "imovel_id": 18612
+        },
+        {
+            "id": "bbe1fffa-7998-4fee-bbcb-6ea86c8408f2",
+            "nome": "Freddy",
+            "sobrenome": "Koelpin",
+            "imovel_id": 95464
+        },
+        {
+            "id": "7bd07977-5f49-45a6-8089-d89860804676",
+            "nome": "Ashton",
+            "sobrenome": "Stoltenberg",
+            "imovel_id": 74905
+        },
+        {
+            "id": "fba3fe9e-d09f-4870-b135-1e6b538be59d",
+            "nome": "Lela",
+            "sobrenome": "Raynor",
+            "imovel_id": 69491
+        },
+        {
+            "id": "e48d0b7e-f56a-4591-88d9-cd0e71377a19",
+            "nome": "Bethel",
+            "sobrenome": "Wolff",
+            "imovel_id": 78556
+        },
+        {
+            "id": "4effb951-724a-4172-9a6f-66a0b54f11f6",
+            "nome": "Leone",
+            "sobrenome": "Bergnaum",
+            "imovel_id": 72194
+        },
+        {
+            "id": "1ad30256-5f0a-4268-b537-916d0dfc03af",
+            "nome": "Roger",
+            "sobrenome": "Wehner",
+            "imovel_id": 84503
+        },
+        {
+            "id": "bfd3e2bc-9b08-4378-a24c-01b844d814f8",
+            "nome": "Allene",
+            "sobrenome": "Franecki",
+            "imovel_id": 42005
+        },
+        {
+            "id": "24fc8851-9077-4542-bfd1-378336a1b595",
+            "nome": "Arvilla",
+            "sobrenome": "Wolff",
+            "imovel_id": 19638
+        },
+        {
+            "id": "4f2050ca-a7fe-484c-b21f-79cf3ea0daa8",
+            "nome": "Johnny",
+            "sobrenome": "Mitchell",
+            "imovel_id": 93992
+        },
+        {
+            "id": "26eb778b-e613-47bc-b343-8f1afe1b0eea",
+            "nome": "Pansy",
+            "sobrenome": "Rowe",
+            "imovel_id": 37930
+        },
+        {
+            "id": "992a5ea3-a2c7-4399-90ac-49b793b01f0a",
+            "nome": "Francesca",
+            "sobrenome": "Kreiger",
+            "imovel_id": 89889
+        },
+        {
+            "id": "76626ae6-4fcd-484c-b307-cd2ade31a224",
+            "nome": "Dora",
+            "sobrenome": "Metz",
+            "imovel_id": 28060
+        },
+        {
+            "id": "7ace22de-ec7e-4e52-8013-13e1c08fee6f",
+            "nome": "Anabel",
+            "sobrenome": "Corkery",
+            "imovel_id": 30770
+        },
+        {
+            "id": "0bd9ec31-7de3-4700-9770-f7fc49d45df7",
+            "nome": "Hope",
+            "sobrenome": "Hegmann",
+            "imovel_id": 37589
+        },
+        {
+            "id": "91b348e3-88f7-44af-a03a-eb0eefdcc738",
+            "nome": "Anna",
+            "sobrenome": "Fritsch",
+            "imovel_id": 5271
+        },
+        {
+            "id": "366682d5-db2f-482f-a753-a9967f8b89ea",
+            "nome": "Duncan",
+            "sobrenome": "Glover",
+            "imovel_id": 22190
+        },
+        {
+            "id": "da9d804a-b58d-4c73-ad3b-38aa8163b8da",
+            "nome": "Mable",
+            "sobrenome": "Osinski",
+            "imovel_id": 70425
+        },
+        {
+            "id": "f85c20a4-28ce-48b0-b553-19c64e56164b",
+            "nome": "Kenny",
+            "sobrenome": "Conn",
+            "imovel_id": 99532
+        },
+        {
+            "id": "33c1cc69-764d-40f1-96bc-43b720048860",
+            "nome": "Irving",
+            "sobrenome": "Mraz",
+            "imovel_id": 43615
+        },
+        {
+            "id": "0e25873d-1fd4-4042-a9dd-5b234983cd9f",
+            "nome": "Everett",
+            "sobrenome": "Graham",
+            "imovel_id": 92026
+        },
+        {
+            "id": "14241838-2896-4fea-af9d-69765b8b0c0c",
+            "nome": "Valentine",
+            "sobrenome": "Kovacek",
+            "imovel_id": 44093
+        },
+        {
+            "id": "cd0b39ae-f5e0-426c-ada8-07e638834871",
+            "nome": "Dawson",
+            "sobrenome": "Reichert",
+            "imovel_id": 62162
+        },
+        {
+            "id": "ec1d9d65-bc45-4a2d-8f30-6451bff8adeb",
+            "nome": "Melyna",
+            "sobrenome": "Crooks",
+            "imovel_id": 14247
+        },
+        {
+            "id": "e887f3fc-1404-4887-a2f2-1023584cc008",
+            "nome": "Jarrett",
+            "sobrenome": "Runte",
+            "imovel_id": 80981
+        },
+        {
+            "id": "d3a42c40-9b53-4018-ac2d-318bec1b9ca5",
+            "nome": "Rachael",
+            "sobrenome": "Koelpin",
+            "imovel_id": 26377
+        },
+        {
+            "id": "8a148a5d-8cd1-470f-8d0f-bc4e2997c4f1",
+            "nome": "Cristal",
+            "sobrenome": "Bartoletti",
+            "imovel_id": 52642
+        },
+        {
+            "id": "59302ec2-944e-42f9-b9e8-d096671f8c82",
+            "nome": "Joany",
+            "sobrenome": "Schroeder",
+            "imovel_id": 87678
+        },
+        {
+            "id": "d2ce1146-c157-46b6-84ca-f197940935e8",
+            "nome": "Eliza",
+            "sobrenome": "Robel",
+            "imovel_id": 57587
+        },
+        {
+            "id": "6529eddd-22b0-424b-84f7-16db94f9fb4f",
+            "nome": "Dariana",
+            "sobrenome": "Buckridge",
+            "imovel_id": 47383
+        },
+        {
+            "id": "0223d140-78dc-446f-bda9-9f58d810c419",
+            "nome": "Lester",
+            "sobrenome": "Reichert",
+            "imovel_id": 606
+        },
+        {
+            "id": "e694f3a1-2b2b-4c03-87a9-488418480a8b",
+            "nome": "Ahmed",
+            "sobrenome": "Pagac",
+            "imovel_id": 35609
+        },
+        {
+            "id": "7017f42f-ec05-457c-936e-11747f18d702",
+            "nome": "Ayla",
+            "sobrenome": "Cummerata",
+            "imovel_id": 3772
+        },
+        {
+            "id": "8ce48d8f-a419-4a89-b7cc-2f5e1a2ee5ed",
+            "nome": "Alden",
+            "sobrenome": "Walsh",
+            "imovel_id": 11801
+        },
+        {
+            "id": "e46fa7c1-4072-43e0-b6a6-d590f46061e8",
+            "nome": "Juanita",
+            "sobrenome": "Lubowitz",
+            "imovel_id": 85496
+        },
+        {
+            "id": "845def9e-c7d1-44b8-acc9-27dee7c569f9",
+            "nome": "Stacy",
+            "sobrenome": "Conn",
+            "imovel_id": 19532
+        },
+        {
+            "id": "0beb0721-c6a3-412f-a2ea-da0b047ee0ac",
+            "nome": "Trever",
+            "sobrenome": "Glover",
+            "imovel_id": 93286
+        },
+        {
+            "id": "532fef53-0137-4fe0-9bc6-ae8a118068e3",
+            "nome": "Jakayla",
+            "sobrenome": "Schimmel",
+            "imovel_id": 79202
+        },
+        {
+            "id": "3abe1a25-b71e-4544-b3ba-c5b72591c3c8",
+            "nome": "Joseph",
+            "sobrenome": "Swift",
+            "imovel_id": 19150
+        },
+        {
+            "id": "c469e568-6006-49ae-9b07-4ef3f9986028",
+            "nome": "Wilfredo",
+            "sobrenome": "Grady",
+            "imovel_id": 69037
+        },
+        {
+            "id": "7774f476-dbe9-4922-8d82-76da05beac03",
+            "nome": "Alysa",
+            "sobrenome": "Stiedemann",
+            "imovel_id": 22931
+        },
+        {
+            "id": "86d741fe-d391-49e4-b543-947663e40359",
+            "nome": "Missouri",
+            "sobrenome": "Roob",
+            "imovel_id": 52817
+        },
+        {
+            "id": "8823f4ea-38da-46b9-bdb2-860a544e695d",
+            "nome": "Elinore",
+            "sobrenome": "Keeling",
+            "imovel_id": 33111
+        },
+        {
+            "id": "67050dcf-085f-4114-99ac-2fcc88e56ad2",
+            "nome": "Estrella",
+            "sobrenome": "Hegmann",
+            "imovel_id": 5582
+        },
+        {
+            "id": "f8db8438-31dc-4d78-827a-0924d125e449",
+            "nome": "Torey",
+            "sobrenome": "Cummerata",
+            "imovel_id": 47296
+        },
+        {
+            "id": "723e412c-1ee4-4dbb-b644-f570fcac517c",
+            "nome": "Cydney",
+            "sobrenome": "Monahan",
+            "imovel_id": 35637
+        },
+        {
+            "id": "f59a2456-b3f5-4d60-8c66-486596fa0e1b",
+            "nome": "Taryn",
+            "sobrenome": "Cormier",
+            "imovel_id": 51798
+        },
+        {
+            "id": "ce7f5567-7837-400a-a36f-328a1fd03544",
+            "nome": "Stephanie",
+            "sobrenome": "Champlin",
+            "imovel_id": 47764
+        },
+        {
+            "id": "4146757c-22b8-42c1-b1ec-0ea6b2af7556",
+            "nome": "Bette",
+            "sobrenome": "Dibbert",
+            "imovel_id": 41208
+        },
+        {
+            "id": "4895100e-3cfd-46f2-9e42-af12029d3843",
+            "nome": "Ashlynn",
+            "sobrenome": "Reilly",
+            "imovel_id": 38436
+        },
+        {
+            "id": "f63ae137-193d-488f-af03-eaf36660dbc4",
+            "nome": "Aracely",
+            "sobrenome": "Von",
+            "imovel_id": 87501
+        },
+        {
+            "id": "32733b9a-59fa-40a0-a743-65d168df9515",
+            "nome": "Arnoldo",
+            "sobrenome": "Mohr",
+            "imovel_id": 92940
+        },
+        {
+            "id": "05dd5a92-e0e9-49bb-94a1-1c987d8a47a5",
+            "nome": "Hattie",
+            "sobrenome": "O'Kon",
+            "imovel_id": 47692
+        },
+        {
+            "id": "cd0b13fc-260a-41a3-8d5c-3a3e266df9c3",
+            "nome": "Jakob",
+            "sobrenome": "Crona",
+            "imovel_id": 58101
+        },
+        {
+            "id": "a4f90ee4-eb3d-4926-a109-41bc717ce4ef",
+            "nome": "Lew",
+            "sobrenome": "Bins",
+            "imovel_id": 11599
+        },
+        {
+            "id": "a2250929-20af-40d5-87a2-c901ae0a96b7",
+            "nome": "Mable",
+            "sobrenome": "Hermiston",
+            "imovel_id": 31530
+        },
+        {
+            "id": "340a5e15-eefe-4509-8dbe-e39314283510",
+            "nome": "Connor",
+            "sobrenome": "Wisoky",
+            "imovel_id": 98853
+        },
+        {
+            "id": "10c64422-3252-498d-9d3a-560b15ada5ca",
+            "nome": "Lolita",
+            "sobrenome": "Gusikowski",
+            "imovel_id": 81521
+        },
+        {
+            "id": "aef0bef9-9447-4369-8afe-5ca6c9bb39f6",
+            "nome": "Ettie",
+            "sobrenome": "Howell",
+            "imovel_id": 86995
+        },
+        {
+            "id": "8d6d39be-c5dd-48d6-9959-127875f77f0e",
+            "nome": "Leone",
+            "sobrenome": "Stark",
+            "imovel_id": 91274
+        },
+        {
+            "id": "f666a3a7-2634-417a-87b8-45f87451d0bc",
+            "nome": "Vincenzo",
+            "sobrenome": "Ritchie",
+            "imovel_id": 44207
+        },
+        {
+            "id": "5b5db2b5-91a9-427a-a677-1b9dcabbac42",
+            "nome": "Addison",
+            "sobrenome": "Willms",
+            "imovel_id": 33400
+        },
+        {
+            "id": "91d009a4-07c9-4204-8f1e-c741275a669b",
+            "nome": "Solon",
+            "sobrenome": "Little",
+            "imovel_id": 55753
+        },
+        {
+            "id": "b9784d45-77d0-42aa-ad22-75d6d252f195",
+            "nome": "Beryl",
+            "sobrenome": "Altenwerth",
+            "imovel_id": 57610
+        },
+        {
+            "id": "7105ae7a-880b-458c-825e-457c822b0c5e",
+            "nome": "Stuart",
+            "sobrenome": "Dach",
+            "imovel_id": 99085
+        },
+        {
+            "id": "0b0ea0b8-a673-4f6b-90c6-2fad66747e36",
+            "nome": "Lorenzo",
+            "sobrenome": "West",
+            "imovel_id": 5359
+        },
+        {
+            "id": "a50b108b-83cd-4a07-8cb3-c60f5b5db49a",
+            "nome": "Donny",
+            "sobrenome": "Olson",
+            "imovel_id": 3212
+        },
+        {
+            "id": "afc98e33-9127-4487-9c2f-a30936a5fd46",
+            "nome": "Gustave",
+            "sobrenome": "Trantow",
+            "imovel_id": 42838
+        },
+        {
+            "id": "856ae86d-08ac-4cfb-ae9f-788548abadf0",
+            "nome": "Romaine",
+            "sobrenome": "Tremblay",
+            "imovel_id": 41189
+        },
+        {
+            "id": "e81cf943-1a88-4abd-a634-3455e2c48090",
+            "nome": "Dorthy",
+            "sobrenome": "Leffler",
+            "imovel_id": 27108
+        },
+        {
+            "id": "e47763dd-f76e-4318-b0c7-53c8bef0ffe9",
+            "nome": "Freddy",
+            "sobrenome": "Oberbrunner",
+            "imovel_id": 20283
+        },
+        {
+            "id": "be793c26-f2a7-47d1-82b4-e0e1ed8c07af",
+            "nome": "Hertha",
+            "sobrenome": "Schmidt",
+            "imovel_id": 87593
+        },
+        {
+            "id": "fc93842b-a68b-4810-8e0f-a034d377f231",
+            "nome": "Lucas",
+            "sobrenome": "Sanford",
+            "imovel_id": 30786
+        },
+        {
+            "id": "f00aeeed-4fa0-4a7e-8712-b33804c81350",
+            "nome": "Norval",
+            "sobrenome": "Weber",
+            "imovel_id": 49667
+        },
+        {
+            "id": "d5a3037f-8abe-4220-a73f-6f7ca1ab050a",
+            "nome": "Wilson",
+            "sobrenome": "Fay",
+            "imovel_id": 42748
+        },
+        {
+            "id": "f2551e89-8a66-409e-8458-d0f79ca4c81f",
+            "nome": "Shanna",
+            "sobrenome": "Crooks",
+            "imovel_id": 61052
+        },
+        {
+            "id": "e21e68bb-a445-4f7c-833e-687f99b5a966",
+            "nome": "Ernestine",
+            "sobrenome": "Schiller",
+            "imovel_id": 80901
+        },
+        {
+            "id": "8c02f4c1-5d77-4573-81f7-47a243c3c81a",
+            "nome": "Davonte",
+            "sobrenome": "Weber",
+            "imovel_id": 64937
+        },
+        {
+            "id": "dfdd6921-fe91-486d-a9c9-f8138bbd055b",
+            "nome": "Samara",
+            "sobrenome": "Gusikowski",
+            "imovel_id": 85177
+        },
+        {
+            "id": "2d9b019a-1b6d-4cd2-89f7-819d418c2ccb",
+            "nome": "Edward",
+            "sobrenome": "Bednar",
+            "imovel_id": 23779
+        },
+        {
+            "id": "3f781160-6164-4d4b-9309-891e40fecc2a",
+            "nome": "Kaylie",
+            "sobrenome": "Hills",
+            "imovel_id": 6430
+        },
+        {
+            "id": "3253ceb9-5213-4c3f-8209-73d5a1667b26",
+            "nome": "Layla",
+            "sobrenome": "Farrell",
+            "imovel_id": 88800
+        },
+        {
+            "id": "57eae2b1-f68b-42c5-8d58-c45cba2d4809",
+            "nome": "Shanie",
+            "sobrenome": "Monahan",
+            "imovel_id": 95918
+        },
+        {
+            "id": "6c89ef91-90dc-4d92-a567-dd39ba716ba3",
+            "nome": "Reece",
+            "sobrenome": "Shanahan",
+            "imovel_id": 27518
+        },
+        {
+            "id": "2c0d158b-691d-4c37-b6f8-13b070777d95",
+            "nome": "Bridget",
+            "sobrenome": "Lang",
+            "imovel_id": 6659
+        },
+        {
+            "id": "12c77c3a-9b28-4a45-99e3-fb4c63c79f6f",
+            "nome": "Manuel",
+            "sobrenome": "Gutkowski",
+            "imovel_id": 67271
+        },
+        {
+            "id": "5d9772a5-adb4-4cfd-9b99-62f8fcffb22f",
+            "nome": "Alvera",
+            "sobrenome": "Bernier",
+            "imovel_id": 24815
+        },
+        {
+            "id": "afe2496a-64d9-4678-b6e0-cb3ced6f6c87",
+            "nome": "Duncan",
+            "sobrenome": "Morar",
+            "imovel_id": 63858
+        },
+        {
+            "id": "d01bcb93-ea58-4533-a169-0a7323858482",
+            "nome": "Rashawn",
+            "sobrenome": "Runolfsdottir",
+            "imovel_id": 99524
+        },
+        {
+            "id": "8e43ede9-88dc-4cc2-a8bf-efc04ab778ce",
+            "nome": "Kurt",
+            "sobrenome": "Kutch",
+            "imovel_id": 44706
+        },
+        {
+            "id": "8179886a-71f6-469b-8c4b-4b336055d366",
+            "nome": "Camryn",
+            "sobrenome": "Herzog",
+            "imovel_id": 16920
+        },
+        {
+            "id": "28539d67-36e4-491f-b21e-4c6995a3d6d9",
+            "nome": "Johnny",
+            "sobrenome": "Brakus",
+            "imovel_id": 98325
+        },
+        {
+            "id": "88cdca46-6e74-4247-835a-77a4089e0ea8",
+            "nome": "Cleve",
+            "sobrenome": "Reichert",
+            "imovel_id": 849
+        },
+        {
+            "id": "5bd22558-8d2f-4ef2-a2ae-2e013adaf7f2",
+            "nome": "Noah",
+            "sobrenome": "Willms",
+            "imovel_id": 62279
+        },
+        {
+            "id": "5ae79f45-89eb-44c3-a61e-3e437df5b4fb",
+            "nome": "Dillan",
+            "sobrenome": "Parisian",
+            "imovel_id": 83121
+        },
+        {
+            "id": "3eaf6301-92b2-4513-9803-87dbc82da778",
+            "nome": "Savanna",
+            "sobrenome": "Powlowski",
+            "imovel_id": 24678
+        },
+        {
+            "id": "e13139e2-655c-4b32-b033-1e18d3e5adf1",
+            "nome": "Henri",
+            "sobrenome": "Murray",
+            "imovel_id": 87845
+        },
+        {
+            "id": "fa5dd62d-2a32-4ca0-9154-e4c9d847dcce",
+            "nome": "Jerald",
+            "sobrenome": "Glover",
+            "imovel_id": 22886
+        },
+        {
+            "id": "7d8a8203-3000-4e2e-a98c-0f1b5cb84e2c",
+            "nome": "Rod",
+            "sobrenome": "Nienow",
+            "imovel_id": 56283
+        },
+        {
+            "id": "db3caa84-224a-4233-ac2a-fe19288b725b",
+            "nome": "Shawn",
+            "sobrenome": "Breitenberg",
+            "imovel_id": 76290
+        }
+    ]
+}
